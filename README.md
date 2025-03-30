@@ -21,5 +21,5 @@ Passos para instalar e configurar o ambiente necessário.
 
 ```bash
 # Comando de instalação (exemplo)
-pip install -r requirements.txt
+npm install
 
